@@ -4,7 +4,7 @@ def no_puppies(p)
     puts "No more puppies!"
   else
     puts "Well done, Rachel!"
-no_puppies(8)
+no_puppies (8)
 end
 
 
